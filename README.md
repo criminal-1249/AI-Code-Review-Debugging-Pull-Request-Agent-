@@ -102,7 +102,7 @@ scripted stand-in for the LLM and the real compiler, pytest and scoring:
 python -m demo.buggy_demo
 ```
 
-**CLI** against a real PR (needs `ANTHROPIC_API_KEY`):
+**CLI** against a real PR (needs `GROQ_API_KEY`):
 
 ```bash
 python -m app.cli owner/repo#123
